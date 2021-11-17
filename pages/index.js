@@ -1,6 +1,6 @@
 import { useSession } from "next-auth/react";
 import Sign from "../components/system/sign";
-import Link from 'next/link';
+//import Link from 'next/link';
 import AuthAccess from "../components/system/authaccess";
 import AccountSection from "../components/account/accountsection";
 

@@ -10,6 +10,7 @@
 
 # Current Status:
 - Blank project.
+- to develop correct init start builds
 
 # Information:
   To develop blockchain database game world. As sandbox world to develop that store history for player action to prevent cheating as follow the rules logic script.
@@ -31,3 +32,7 @@
 
 # refernce:
 - https://www.guru99.com/blockchain-tutorial.html#2
+
+
+# Dev:
+- https://nextjs.org/docs/advanced-features/react-18

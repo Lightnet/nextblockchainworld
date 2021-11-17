@@ -3,13 +3,13 @@
   Created by: Lightnet
 */
 
-import Wallet from "./wallet";
+import WalletSection from "../wallet/walletsection";
 
 export default function AccountSection(){
 
   return (<>
   <label>Account</label> 
   <br />
-  <Wallet></Wallet>
+  <WalletSection></WalletSection>
   </>);
 }
